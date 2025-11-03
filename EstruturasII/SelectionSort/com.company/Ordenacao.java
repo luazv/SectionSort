@@ -10,8 +10,9 @@ public class Ordenacao {
             int auxiliar = array[indexMinimo];
             array[indexMinimo] = array [i];
 
-            [10, 3, 1]
-            [1, 3, 10]
+            [9, 2, 1]
+            [1, 2, 9]
         }
     }
 }
+
